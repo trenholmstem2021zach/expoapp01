@@ -12,5 +12,7 @@
 - [IOS Expo App](https://apps.apple.com/us/app/expo-go/id982107779)
 
 ## Let's Build an App
-- [Watch Getting Started Expo Tutorial](https://www.youtube.com/watch?v=NgDaPmxewcg)
- 
+### NOTE: Helpful Tutorials
+- [Watch Getting Started Building Phone App Expo Tutorial](https://www.youtube.com/watch?v=NgDaPmxewcg)
+- [Java Script Tutorial](https://www.w3schools.com/js/)
+- [Java Script Tutorial Video](https://www.youtube.com/watch?v=W6NZfCO5SIk)
