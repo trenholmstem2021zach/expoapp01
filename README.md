@@ -14,5 +14,6 @@
 ## Let's Build an App
 ### NOTE: Helpful Tutorials
 - [Watch Getting Started Building Phone App Expo Tutorial](https://www.youtube.com/watch?v=NgDaPmxewcg)
+- [React Native Tutorial](https://reactnative.dev/docs/tutorial)
 - [Java Script Tutorial](https://www.w3schools.com/js/)
 - [Java Script Tutorial Video](https://www.youtube.com/watch?v=W6NZfCO5SIk)
