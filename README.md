@@ -10,3 +10,7 @@
 ### Install the Expo App on your Phone:
 - [Android Expo App](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US).
 - [IOS Expo App](https://apps.apple.com/us/app/expo-go/id982107779)
+
+## Let's Build an App
+- [Watch Getting Started Expo Tutorial](https://www.youtube.com/watch?v=NgDaPmxewcg)
+ 
