@@ -4,6 +4,7 @@
 ### Install the following Tools on Windows Laptop/Desktop:
 - [Git client for Windows](https://gitforwindows.org/)
 - [NodeJS 18 for Windows](https://nodejs.org/en/download/current/)
+- [Yarn installed](https://yarnpkg.com/getting-started/install)
 - [Expo Client Tool](https://expo.dev/tools#cli)
 - [Ngrok Reverse Proxy](https://ngrok.com/download)
 ### Install the Expo App on your Phone:
