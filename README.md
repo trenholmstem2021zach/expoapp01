@@ -2,6 +2,7 @@
 
 ## Setup Development Tools
 ### Install the following Tools on Windows Laptop/Desktop:
+- [VS Code](https://code.visualstudio.com/)
 - [Git client for Windows](https://gitforwindows.org/)
 - [NodeJS 18 for Windows](https://nodejs.org/en/download/current/)
 - [Yarn installed](https://yarnpkg.com/getting-started/install)
